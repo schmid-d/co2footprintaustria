@@ -1,0 +1,193 @@
+FAO.Code,Country,ISO,Continent,Group,EU27,exio_code,ISO2
+1,Armenia,ARM,ASI,Europe,ASI,WA,AM
+2,Afghanistan,AFG,ASI,SSAsia,ASI,WA,AF
+3,Albania,ALB,EUR,Europe,EUR,WE,AL
+4,Algeria,DZA,AFR,NAWCA,AFR,WF,DZ
+7,Angola,AGO,AFR,SSAfr,AFR,WF,AO
+8,Antigua and Barbuda,ATG,LAM,LA,LAM,WL,AG
+9,Argentina,ARG,LAM,LA,LAM,WL,AR
+10,Australia,AUS,OCE,NAOce,OCE,AU,AU
+11,Austria,AUT,EU,Europe,EU,AT,AT
+12,Bahamas,BHS,LAM,LA,LAM,WL,BS
+13,Bahrain,BHR,ASI,NAWCA,ASI,WM,BH
+14,Barbados,BRB,LAM,LA,LAM,WL,BB
+15,Belgium-Luxembourg,BLX,EU,Europe,EU,,
+16,Bangladesh,BGD,ASI,SSAsia,ASI,WA,BD
+19,Bolivia (Plurinational State of),BOL,LAM,LA,LAM,WL,BO
+20,Botswana,BWA,AFR,SSA,AFR,WF,BW
+21,Brazil,BRA,LAM,LA,LAM,BR,BR
+23,Belize,BLZ,LAM,LA,LAM,WL,BZ
+25,Solomon Islands,SLB,OCE,NAOce,OCE,WA,SB
+26,Brunei Darussalam,BRN,ASI,IndA,ASI,WA,BN
+27,Bulgaria,BGR,EU,Europe,EU,BG,BG
+28,Myanmar,MMR,ASI,SSAsia,ASI,WA,MM
+29,Burundi,BDI,AFR,SSAfr,AFR,WF,BI
+32,Cameroon,CMR,AFR,SSAfr,AFR,WF,CM
+33,Canada,CAN,NAM,NAOce,NAM,CA,CA
+35,Cabo Verde,CPV,AFR,SSAfr,AFR,WF,CV
+37,Central African Republic,CAF,AFR,SSAfr,AFR,WF,CF
+38,Sri Lanka,LKA,ASI,SSAsia,ASI,WA,LK
+39,Chad,TCD,AFR,SSAfr,AFR,WF,TD
+40,Chile,CHL,LAM,LA,LAM,WL,CL
+41,"China, mainland",CHN,ASI,IndA,ASI,CN,CN
+44,Colombia,COL,LAM,LA,LAM,WL,CO
+46,Congo,COG,AFR,SSAfr,AFR,WF,CG
+48,Costa Rica,CRI,LAM,LA,LAM,WL,CR
+49,Cuba,CUB,LAM,LA,LAM,WL,CU
+50,Cyprus,CYP,EU,Europe,EU,CY,CY
+51,Czechoslovakia,CSK,EU,Europe,EU,,
+52,Azerbaijan,AZE,ASI,Europe,ASI,WA,AZ
+53,Benin,BEN,AFR,SSAfr,AFR,WF,BJ
+54,Denmark,DNK,EU,Europe,EU,DK,DK
+55,Dominica,DMA,LAM,LA,LAM,WL,DM
+56,Dominican Republic,DOM,LAM,LA,LAM,WL,DO
+57,Belarus,BLR,EUR,Europe,EUR,WE,BY
+58,Ecuador,ECU,LAM,LA,LAM,WL,EC
+59,Egypt,EGY,AFR,NAWCA,AFR,WM,EG
+60,El Salvador,SLV,LAM,LA,LAM,WL,SV
+63,Estonia,EST,EU,Europe,EU,EE,EE
+66,Fiji,FJI,OCE,NAOce,OCE,WA,FJ
+67,Finland,FIN,EU,Europe,EU,FI,FI
+68,France,FRA,EU,Europe,EU,FR,FR
+70,French Polynesia,PYF,OCE,Europe,OCE,WA,PF
+72,Djibouti,DJI,AFR,SSAfr,AFR,WF,DJ
+73,Georgia,GEO,ASI,Europe,ASI,WA,GE
+74,Gabon,GAB,AFR,SSAfr,AFR,WF,GA
+75,Gambia,GMB,AFR,SSAfr,AFR,WF,GM
+79,Germany,DEU,EU,Europe,EU,DE,DE
+80,Bosnia and Herzegovina,BIH,EUR,Europe,EUR,WE,BA
+81,Ghana,GHA,AFR,SSAfr,AFR,WF,GH
+83,Kiribati,KIR,OCE,NAOce,OCE,WA,KI
+84,Greece,GRC,EU,Europe,EU,GR,GR
+86,Grenada,GRD,LAM,LA,LAM,WL,GD
+89,Guatemala,GTM,LAM,LA,LAM,WL,GT
+90,Guinea,GIN,AFR,SSAfr,AFR,WF,GN
+91,Guyana,GUY,LAM,LA,LAM,WL,GY
+93,Haiti,HTI,LAM,LA,LAM,WL,HT
+95,Honduras,HND,LAM,LA,LAM,WL,HN
+96,"China, Hong Kong SAR",HKG,ASI,IndA,ASI,WA,HK
+97,Hungary,HUN,EU,Europe,EU,HU,HU
+98,Croatia,HRV,EU,Europe,EU,HR,HR
+99,Iceland,ISL,EUR,Europe,EUR,WE,IS
+100,India,IND,ASI,SSAsia,ASI,IN,IN
+101,Indonesia,IDN,ASI,SSAsia,ASI,ID,ID
+102,Iran (Islamic Republic of),IRN,ASI,SSAsia,ASI,WM,IR
+103,Iraq,IRQ,ASI,NAWCA,ASI,WM,IQ
+104,Ireland,IRL,EU,Europe,EU,IE,IE
+105,Israel,ISR,ASI,NAWCA,ASI,WM,IL
+106,Italy,ITA,EU,Europe,EU,IT,IT
+107,Côte d'Ivoire,CIV,AFR,SSAfr,AFR,WF,CI
+108,Kazakhstan,KAZ,ASI,NAWCA,ASI,WA,KZ
+109,Jamaica,JAM,LAM,LA,LAM,WL,JM
+110,Japan,JPN,ASI,IndA,ASI,JP,JP
+112,Jordan,JOR,ASI,NAWCA,ASI,WM,JO
+113,Kyrgyzstan,KGZ,ASI,NAWCA,ASI,WA,KG
+114,Kenya,KEN,AFR,SSAfr,AFR,WF,KE
+115,Cambodia,KHM,ASI,SSAsia,ASI,WA,KH
+116,Democratic People's Republic of Korea,PRK,ASI,SSAsia,ASI,WA,KP
+117,Republic of Korea,KOR,ASI,IndA,ASI,KR,KR
+118,Kuwait,KWT,ASI,NAWCA,ASI,WM,KW
+119,Latvia,LVA,EU,Europe,EU,LV,LV
+120,Lao People's Democratic Republic,LAO,ASI,SSAsia,ASI,WA,LA
+121,Lebanon,LBN,ASI,NAWCA,ASI,WM,LB
+122,Lesotho,LSO,AFR,SSAfr,AFR,WF,LS
+123,Liberia,LBR,AFR,SSAfr,AFR,WF,LR
+124,Libya,LBY,AFR,NAWCA,AFR,WF,LY
+126,Lithuania,LTU,EU,Europe,EU,LT,LT
+128,"China, Macao SAR",MAC,ASI,IndA,ASI,WA,MO
+129,Madagascar,MDG,AFR,SSAfr,AFR,WF,MG
+130,Malawi,MWI,AFR,SSAfr,AFR,WF,MW
+131,Malaysia,MYS,ASI,SSAsia,ASI,WA,MY
+132,Maldives,MDV,ASI,SSAsia,ASI,WA,MV
+133,Mali,MLI,AFR,SSAfr,AFR,WF,ML
+134,Malta,MLT,EU,Europe,EU,MT,MT
+136,Mauritania,MRT,AFR,SSAfr,AFR,WF,MR
+137,Mauritius,MUS,AFR,SSAfr,AFR,WF,MU
+138,Mexico,MEX,LAM,LA,LAM,MX,MX
+141,Mongolia,MNG,ASI,NAWCA,ASI,WA,MN
+143,Morocco,MAR,AFR,NAWCA,AFR,WF,MA
+144,Mozambique,MOZ,AFR,SSAfr,AFR,WF,MZ
+146,Republic of Moldova,MDA,EUR,Europe,EUR,WE,MD
+147,Namibia,NAM,AFR,SSAfr,AFR,WF,NA
+149,Nepal,NPL,ASI,SSAsia,ASI,WA,NP
+150,Netherlands,NLD,EU,Europe,EU,NL,NL
+151,Netherlands Antilles,ANT,LAM,LA,LAM,WL,AN
+153,New Caledonia,NCL,OCE,NAOce,OCE,WA,NC
+154,The former Yugoslav Republic of Macedonia,MKD,EUR,Europe,EUR,WE,MK
+155,Vanuatu,VUT,OCE,NAOce,OCE,WA,VU
+156,New Zealand,NZL,OCE,NAOce,OCE,WA,NZ
+157,Nicaragua,NIC,LAM,LA,LAM,WL,NI
+158,Niger,NER,AFR,SSAfr,AFR,WF,NE
+159,Nigeria,NGA,AFR,SSAfr,AFR,WF,NG
+162,Norway,NOR,EUR,Europe,EUR,NO,NO
+165,Pakistan,PAK,ASI,SSAsia,ASI,WA,PK
+166,Panama,PAN,LAM,LA,LAM,WL,PA
+167,Czech Republic,CZE,EU,Europe,EU,CZ,CZ
+168,Papua New Guinea,PNG,OCE,NAOce,OCE,WA,PG
+169,Paraguay,PRY,LAM,LA,LAM,WL,PY
+170,Peru,PER,LAM,LA,LAM,WL,PE
+171,Philippines,PHL,ASI,SSAsia,ASI,WA,PH
+173,Poland,POL,EU,Europe,EU,PL,PL
+174,Portugal,PRT,EU,Europe,EU,PT,PT
+175,Guinea-Bissau,GNB,AFR,SSAfr,AFR,WF,GW
+176,Timor-Leste,TLS,ASI,SSAsia,ASI,WA,TL
+177,Puerto Rico,PRI,LAM,LA,LAM,WL,PR
+178,Eritrea,ERI,AFR,SSAfr,AFR,WF,ER
+179,Qatar,QAT,ASI,NAWCA,ASI,WM,QA
+181,Zimbabwe,ZWE,AFR,SSAfr,AFR,WF,ZW
+183,Romania,ROU,EU,Europe,EU,,
+184,Rwanda,RWA,AFR,SSAfr,AFR,WF,RW
+185,Russian Federation,RUS,ASI,Europe,ASI,RU,RU
+186,Serbia and Montenegro,SCG,EUR,Europe,EUR,,
+188,Saint Kitts and Nevis,KNA,LAM,LA,LAM,WL,KN
+189,Saint Lucia,LCA,LAM,LA,LAM,WL,LC
+191,Saint Vincent and the Grenadines,VCT,LAM,LA,LAM,WL,VC
+193,Sao Tome and Principe,STP,AFR,SSAfr,AFR,WF,ST
+194,Saudi Arabia,SAU,ASI,NAWCA,ASI,WM,SA
+195,Senegal,SEN,AFR,SSAfr,AFR,WF,SN
+197,Sierra Leone,SLE,AFR,SSAfr,AFR,WF,SL
+198,Slovenia,SVN,EU,Europe,EU,SI,SI
+199,Slovakia,SVK,EU,Europe,EU,SK,SK
+200,Singapore,SGP,ASI,IndA,ASI,WA,SG
+201,Somalia,SOM,AFR,SSAfr,AFR,WF,SO
+202,South Africa,ZAF,AFR,SSAfr,AFR,ZA,ZA
+203,Spain,ESP,EU,Europe,EU,ES,ES
+207,Suriname,SUR,LAM,LA,LAM,WL,SR
+208,Tajikistan,TJK,ASI,NAWCA,ASI,WA,TJ
+209,Swaziland,SWZ,AFR,SSAfr,AFR,WF,SZ
+210,Sweden,SWE,EU,Europe,EU,SE,SE
+211,Switzerland,CHE,EUR,Europe,EUR,CH,CH
+212,Syrian Arab Republic,SYR,ASI,NAWCA,ASI,WM,SY
+213,Turkmenistan,TKM,ASI,NAWCA,ASI,WA,TM
+214,"China, Taiwan Province of",TWN,ASI,IndA,ASI,TW,TW
+215,United Republic of Tanzania,TZA,AFR,SSAfr,AFR,WF,TZ
+216,Thailand,THA,ASI,SSAsia,ASI,WA,TH
+217,Togo,TGO,AFR,SSAfr,AFR,WF,TG
+220,Trinidad and Tobago,TTO,LAM,LA,LAM,WL,TT
+221,Oman,OMN,ASI,NAWCA,ASI,WM,OM
+222,Tunisia,TUN,AFR,NAWCA,AFR,WF,TN
+223,Turkey,TUR,EUR,NAWCA,EUR,TR,TR
+225,United Arab Emirates,ARE,ASI,NAWCA,ASI,WM,AE
+226,Uganda,UGA,AFR,SSAfr,AFR,WF,UG
+228,USSR,SUN,ASI,Europe,ASI,,
+229,United Kingdom,GBR,EU,Europe,EUR,GB,GB
+230,Ukraine,UKR,EUR,Europe,EUR,WE,UA
+231,United States of America,USA,NAM,NAOce,NAM,US,US
+233,Burkina Faso,BFA,AFR,SSAfr,AFR,WF,BF
+234,Uruguay,URY,LAM,LA,LAM,WL,UY
+235,Uzbekistan,UZB,ASI,NAWCA,ASI,WA,UZ
+236,Venezuela (Bolivarian Republic of),VEN,LAM,LA,LAM,WL,VE
+237,Viet Nam,VNM,ASI,SSAsia,ASI,WA,VN
+238,Ethiopia,ETH,AFR,SSAfr,AFR,WF,ET
+244,Samoa,WSM,OCE,NAOce,OCE,WA,WS
+248,Yugoslav SFR,YUG,EUR,Europe,EUR,,
+249,Yemen,YEM,ASI,NAWCA,ASI,WM,YE
+250,Democratic Republic of the Congo,COD,AFR,SSAfr,AFR,WF,CD
+251,Zambia,ZMB,AFR,SSAfr,AFR,WF,ZM
+255,Belgium,BEL,EU,Europe,EU,BE,BE
+256,Luxembourg,LUX,EU,Europe,EU,LU,LU
+272,Serbia,SRB,EUR,Europe,EUR,WE,RS
+273,Montenegro,MNE,EUR,Europe,EUR,WE,ME
+276,Sudan,SDN,AFR,SSAfr,AFR,WF,SD
+277,South Sudan,SSD,AFR,SSAfr,AFR,WF,
+999,RoW,ROW,ROW,NAOce,ROW,,
